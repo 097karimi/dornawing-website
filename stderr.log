@@ -1,0 +1,554 @@
+Invalid HTTP_HOST header: 'mail.dornawing.com'. You may need to add 'mail.dornawing.com' to ALLOWED_HOSTS.
+Bad Request: /
+Not Found: /favicon.ico
+Not Found: /.well-known/security.txt
+Not Found: /.well-known/security.txt
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /admin/pages/2/
+Not Found: /
+Forbidden (CSRF cookie not set.): /admin/images/chooser/upload/
+2021-02-13 18:03:19.139964 [UID:1754][1914] packetLen < 0
+Forbidden (CSRF cookie not set.): /admin/images/chooser/upload/
+2021-02-13 18:03:35.877997 [UID:1754][1914] packetLen < 0
+Forbidden (CSRF cookie not set.): /admin/images/chooser/upload/
+2021-02-13 18:04:01.968156 [UID:1754][8624] packetLen < 0
+Forbidden (CSRF cookie not set.): /admin/images/chooser/upload/
+2021-02-13 18:04:35.893857 [UID:1754][8624] packetLen < 0
+Forbidden (CSRF cookie not set.): /admin/images/chooser/upload/
+2021-02-13 18:05:30.168450 [UID:1754][8624] packetLen < 0
+Forbidden (CSRF cookie not set.): /admin/pages/add/about/aboutpage/3/
+Forbidden (CSRF cookie not set.): /admin/pages/add/about/aboutpage/3/
+Forbidden (CSRF cookie not set.): /admin/pages/add/about/aboutpage/3/
+Forbidden (CSRF cookie not set.): /admin/login/
+Forbidden (CSRF cookie not set.): /admin/login/
+Forbidden (CSRF cookie not set.): /admin/pages/add/products/productspage/3/
+Not Found: /favicon.ico
+Forbidden (CSRF cookie not set.): /admin/pages/add/products/productspage/3/
+Forbidden (CSRF cookie not set.): /admin/pages/add/products/productspage/3/
+Forbidden (CSRF cookie not set.): /admin/login/
+Invalid HTTP_HOST header: 'mail.dornawing.com'. You may need to add 'mail.dornawing.com' to ALLOWED_HOSTS.
+Bad Request: /Microsoft-Server-ActiveSync
+Not Found: /autodiscover/autodiscover.xml
+Not Found: /autodiscover/autodiscover.xml
+Not Found: /.well-known/autoconfig/mail/config-v1.1.xml
+Not Found: /wp-includes/wlwmanifest.xml
+Not Found: /xmlrpc.php
+Not Found: /blog/wp-includes/wlwmanifest.xml
+Not Found: /web/wp-includes/wlwmanifest.xml
+Not Found: /wordpress/wp-includes/wlwmanifest.xml
+Not Found: /website/wp-includes/wlwmanifest.xml
+Not Found: /wp/wp-includes/wlwmanifest.xml
+Not Found: /news/wp-includes/wlwmanifest.xml
+Not Found: /2018/wp-includes/wlwmanifest.xml
+Not Found: /2019/wp-includes/wlwmanifest.xml
+Not Found: /shop/wp-includes/wlwmanifest.xml
+Not Found: /wp1/wp-includes/wlwmanifest.xml
+Not Found: /test/wp-includes/wlwmanifest.xml
+Not Found: /media/wp-includes/wlwmanifest.xml
+Not Found: /wp2/wp-includes/wlwmanifest.xml
+Not Found: /site/wp-includes/wlwmanifest.xml
+Not Found: /cms/wp-includes/wlwmanifest.xml
+Not Found: /sito/wp-includes/wlwmanifest.xml
+Not Found: /favicon.ico
+Forbidden (CSRF cookie not set.): /admin/login/
+Not Found: /favicon.ico
+Forbidden (CSRF cookie not set.): /admin/login/
+OSError: LSAPI: Socket read/write error
+Invalid HTTP_HOST header: 'localhost'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Bad Request: /about/
+Not Found: /favicon.ico
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /favicon.ico
+Forbidden (CSRF cookie not set.): /admin/login/
+Not Found: /favicon.ico
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /favicon.ico
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /robots.txt
+Not Found: /wp-includes/wlwmanifest.xml
+Not Found: /xmlrpc.php
+Not Found: /blog/wp-includes/wlwmanifest.xml
+Not Found: /web/wp-includes/wlwmanifest.xml
+Not Found: /wordpress/wp-includes/wlwmanifest.xml
+Not Found: /website/wp-includes/wlwmanifest.xml
+Not Found: /wp/wp-includes/wlwmanifest.xml
+Not Found: /news/wp-includes/wlwmanifest.xml
+Not Found: /wp1/wp-includes/wlwmanifest.xml
+Not Found: /test/wp-includes/wlwmanifest.xml
+Not Found: /wp2/wp-includes/wlwmanifest.xml
+Not Found: /site/wp-includes/wlwmanifest.xml
+Not Found: /cms/wp-includes/wlwmanifest.xml
+Not Found: /sito/wp-includes/wlwmanifest.xml
+Not Found: /wp-includes/wlwmanifest.xml
+Not Found: /xmlrpc.php
+Not Found: /blog/wp-includes/wlwmanifest.xml
+Not Found: /web/wp-includes/wlwmanifest.xml
+Not Found: /wordpress/wp-includes/wlwmanifest.xml
+Not Found: /website/wp-includes/wlwmanifest.xml
+Not Found: /wp/wp-includes/wlwmanifest.xml
+Not Found: /news/wp-includes/wlwmanifest.xml
+Not Found: /2018/wp-includes/wlwmanifest.xml
+Not Found: /2019/wp-includes/wlwmanifest.xml
+Not Found: /shop/wp-includes/wlwmanifest.xml
+Not Found: /wp1/wp-includes/wlwmanifest.xml
+Not Found: /test/wp-includes/wlwmanifest.xml
+Not Found: /media/wp-includes/wlwmanifest.xml
+Not Found: /wp2/wp-includes/wlwmanifest.xml
+Not Found: /site/wp-includes/wlwmanifest.xml
+Not Found: /cms/wp-includes/wlwmanifest.xml
+Not Found: /sito/wp-includes/wlwmanifest.xml
+Not Found: /about/None/
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /favicon.ico
+Not Found: /about/None/
+2021-02-15 07:54:05.495472 [UID:1754][32509] Child process with pid: 362 was killed by signal: 15, core dump: 0
+2021-02-15 07:54:06.048868 [UID:1754][32509] Child process with pid: 375 was killed by signal: 15, core dump: 0
+2021-02-15 07:54:06.288567 [UID:1754][32509] Child process with pid: 388 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/dornawin/project/passenger_wsgi.py", line 2, in <module>
+    os.environ['DJANGO_SETTINGS_MODULE'] = 'dornawing.settings.production'
+NameError: name 'os' is not defined
+2021-02-15 07:54:09.583536 [UID:1754][492] Child process with pid: 526 was killed by signal: 15, core dump: 0
+2021-02-15 07:54:09.810989 [UID:1754][492] Child process with pid: 528 was killed by signal: 15, core dump: 0
+2021-02-15 07:54:19.980086 [UID:1754][977] Child process with pid: 1035 was killed by signal: 15, core dump: 0
+2021-02-15 07:54:20.158452 [UID:1754][977] Child process with pid: 1045 was killed by signal: 15, core dump: 0
+2021-02-15 07:54:28.932300 [UID:1754][977] Child process with pid: 1486 was killed by signal: 15, core dump: 0
+2021-02-15 07:54:29.204365 [UID:1754][977] Child process with pid: 1490 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/dornawin/project/passenger_wsgi.py", line 2, in <module>
+    os.environ['DJANGO_SETTINGS_MODULE'] = 'dornawing.settings.production'
+NameError: name 'os' is not defined
+Not Found: /about/dsfsdg]
+Not Found: /favicon.ico
+Not Found: /about/dsfsdg]
+Not Found: /about/dsfsdg]
+Not Found: /about/dsfsdg]
+Not Found: /about/None/
+Not Found: /about/None/
+Traceback (most recent call last):
+  File "/home/dornawin/project/passenger_wsgi.py", line 2, in <module>
+    os.environ['DJANGO_SETTINGS_MODULE'] = 'dornawing.settings.production'
+NameError: name 'os' is not defined
+Traceback (most recent call last):
+  File "/home/dornawin/project/passenger_wsgi.py", line 2, in <module>
+    os.environ['DJANGO_SETTINGS_MODULE'] = 'dornawing.settings.production'
+NameError: name 'os' is not defined
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /favicon.ico
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /favicon.ico
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /about/None/
+Not Found: /favicon.ico
+Not Found: /about/None/
+Not Found: /about/None/
+2021-02-15 11:34:10.103583 [UID:1754][1875] Child process with pid: 1895 was killed by signal: 15, core dump: 0
+2021-02-15 11:34:16.338233 [UID:1754][1875] Child process with pid: 2224 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/dornawin/project/passenger_wsgi.py", line 1, in <module>
+    from dornawing.wsgi import application
+  File "/home/dornawin/project/dornawing/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 82, in __getattr__
+    self._setup(name)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 69, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 170, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/home/dornawin/virtualenv/project/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/dornawin/project/dornawing/settings/dev.py", line 10
+    ALLOWED_HOSTS = [''dornawing.com', 'www.dornawing.com''] 
+                               ^
+SyntaxError: invalid syntax
+2021-02-15 11:34:27.307398 [UID:1754][2692] Child process with pid: 2703 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:04.484596 [UID:1754][2692] Child process with pid: 4992 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:05.755524 [UID:1754][2692] Child process with pid: 5149 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:06.589941 [UID:1754][2692] Child process with pid: 5220 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:07.220526 [UID:1754][2692] Child process with pid: 5246 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/dornawin/project/passenger_wsgi.py", line 1, in <module>
+    from dornawing.wsgi import application
+  File "/home/dornawin/project/dornawing/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 82, in __getattr__
+    self._setup(name)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 69, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 170, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/home/dornawin/virtualenv/project/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/dornawin/project/dornawing/settings/dev.py", line 10
+    ALLOWED_HOSTS = [''dornawing.com', 'www.dornawing.com''] 
+                               ^
+SyntaxError: invalid syntax
+2021-02-15 11:35:17.475950 [UID:1754][5684] Child process with pid: 5711 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:18.154899 [UID:1754][5684] Child process with pid: 5746 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:20.013615 [UID:1754][5684] Child process with pid: 5832 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:21.868227 [UID:1754][5684] Child process with pid: 5861 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:22.685467 [UID:1754][5684] Child process with pid: 5887 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:23.251530 [UID:1754][5684] Child process with pid: 5910 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:24.928727 [UID:1754][5684] Child process with pid: 5972 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:26.899611 [UID:1754][5684] Child process with pid: 6055 was killed by signal: 15, core dump: 0
+2021-02-15 11:35:28.052531 [UID:1754][5684] Child process with pid: 6103 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/dornawin/project/passenger_wsgi.py", line 1, in <module>
+    from dornawing.wsgi import application
+  File "/home/dornawin/project/dornawing/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 82, in __getattr__
+    self._setup(name)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 69, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 170, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/home/dornawin/virtualenv/project/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/dornawin/project/dornawing/settings/dev.py", line 10
+    ALLOWED_HOSTS = [dornawing.com', 'www.dornawing.com'] 
+                                     ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/dornawin/project/passenger_wsgi.py", line 1, in <module>
+    from dornawing.wsgi import application
+  File "/home/dornawin/project/dornawing/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/__init__.py", line 19, in setup
+    configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 82, in __getattr__
+    self._setup(name)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 69, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/django/conf/__init__.py", line 170, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/home/dornawin/virtualenv/project/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/dornawin/project/dornawing/settings/dev.py", line 10
+    ALLOWED_HOSTS = [dornawing.com', 'www.dornawing.com'] 
+                                     ^
+SyntaxError: invalid syntax
+2021-02-15 09:12:14.525060 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:14.633204 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:14.759000 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:14.860013 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:14.960277 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:15.060806 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:15.161087 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:15.262990 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:15.365026 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:15.468011 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:15.575997 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:15.693985 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:15.795992 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-15 09:12:15.898985 [UID:1754][32766] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+2021-02-18 04:16:32.263917 [UID:1754][20625] Child process with pid: 20638 was killed by signal: 15, core dump: 0
+2021-03-05 12:06:54.820243 [UID:1754][24010] Child process with pid: 24081 was killed by signal: 15, core dump: 0
+2021-03-05 12:19:21.438579 [UID:1754][21260] Child process with pid: 21301 was killed by signal: 15, core dump: 0
+2021-03-09 17:36:48.814913 [UID:1754][23081] Child process with pid: 23093 was killed by signal: 15, core dump: 0
+2021-03-09 18:08:53.384702 [UID:1754][22050] Child process with pid: 22243 was killed by signal: 15, core dump: 0
+2021-03-09 18:19:47.627134 [UID:1754][6338] Child process with pid: 6366 was killed by signal: 15, core dump: 0
+2021-03-11 16:00:09.976692 [UID:1754][28353] Child process with pid: 18208 was killed by signal: 15, core dump: 0
+2021-03-11 16:00:09.987174 [UID:1754][28353] Child process with pid: 18209 was killed by signal: 15, core dump: 0
+OSError: LSAPI: Socket read/write error
+2021-03-12 16:37:09.803321 [UID:1754][23143] Child process with pid: 23310 was killed by signal: 15, core dump: 0
+OSError: LSAPI: Socket read/write error
+2021-03-15 17:18:09.294583 [UID:1754][11406] Child process with pid: 11435 was killed by signal: 15, core dump: 0
+2021-03-18 14:41:35.832190 [UID:1754][1734090] Child process with pid: 1734097 was killed by signal: 15, core dump: 0
+2021-03-26 15:45:42.865037 [UID:1754][3601653] Child process with pid: 3601661 was killed by signal: 15, core dump: 0
+2021-03-27 17:38:06.321357 [UID:1754][3618778] Child process with pid: 3618980 was killed by signal: 15, core dump: 0
+OSError: LSAPI: Socket read/write error
+2021-04-01 18:00:18.247183 [UID:1754][699994] Child process with pid: 700091 was killed by signal: 15, core dump: 0
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 2
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+2021-04-04 10:15:36.671107 [UID:1754][629898] Child process with pid: 629981 was killed by signal: 15, core dump: 0
+2021-04-04 11:21:36.177371 [UID:1754][874864] packetLen < 0
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+2021-04-07 03:31:44.992367 [UID:1754][2109701] Child process with pid: 2109723 was killed by signal: 15, core dump: 0
+section_counter 1
+2021-04-07 06:32:07.441850 [UID:1754][2672956] Child process with pid: 2712098 was killed by signal: 15, core dump: 0
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+2021-04-08 08:01:52.825752 [UID:1754][3686973] Child process with pid: 3686983 was killed by signal: 15, core dump: 0
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+section_counter 1
+2021-04-17 15:14:23.771561 [UID:1754][828477] Child process with pid: 828507 was killed by signal: 15, core dump: 0
+2021-04-19 13:15:26.102294 [UID:1754][2873777] Child process with pid: 2873829 was killed by signal: 15, core dump: 0
+2021-04-20 07:28:21.531245 [UID:1754][2910323] Child process with pid: 2910400 was killed by signal: 15, core dump: 0
+2021-04-20 07:29:56.991385 [UID:1754][2913781] Child process with pid: 2913796 was killed by signal: 15, core dump: 0
+2021-04-20 07:29:57.677465 [UID:1754][2913781] Child process with pid: 2913808 was killed by signal: 15, core dump: 0
+2021-04-20 07:29:58.976233 [UID:1754][2913824] Child process with pid: 2913847 was killed by signal: 15, core dump: 0
+2021-04-20 07:29:59.724475 [UID:1754][2913824] Child process with pid: 2913856 was killed by signal: 15, core dump: 0
+2021-04-20 07:29:59.909607 [UID:1754][2913824] Child process with pid: 2913873 was killed by signal: 15, core dump: 0
+2021-04-20 07:30:00.359668 [UID:1754][2913824] Child process with pid: 2913874 was killed by signal: 15, core dump: 0
+2021-04-21 02:45:27.927544 [UID:1754][3257593] Child process with pid: 3257631 was killed by signal: 15, core dump: 0
+2021-04-24 13:47:11.427838 [UID:1754][4957] Child process with pid: 5023 was killed by signal: 15, core dump: 0
+OSError: LSAPI: Socket read/write error
+2021-04-28 12:43:07.843210 [UID:1754][19009] Child process with pid: 19205 was killed by signal: 15, core dump: 0
+OSError: LSAPI: Socket read/write error
+2021-05-04 19:19:54.210857 [UID:1754][25472] Child process with pid: 25498 was killed by signal: 15, core dump: 0
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 24 bytes but only got 0. Skipping tag 270
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 30 bytes but only got 0. Skipping tag 271
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 30 bytes but only got 0. Skipping tag 272
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 282
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 283
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 24 bytes but only got 0. Skipping tag 305
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 20 bytes but only got 0. Skipping tag 306
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 33434
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 33437
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 20 bytes but only got 0. Skipping tag 36867
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 20 bytes but only got 0. Skipping tag 36868
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 37122
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 37377
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 37378
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 37380
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 37381
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 37382
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 37386
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 128 bytes but only got 0. Skipping tag 37500
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 41493
+  "Possibly corrupt EXIF data.  "
+/home/dornawin/virtualenv/project/3.7/lib/python3.7/site-packages/PIL/TiffImagePlugin.py:772: UserWarning: Possibly corrupt EXIF data.  Expecting to read 8 bytes but only got 0. Skipping tag 41988
+  "Possibly corrupt EXIF data.  "
+2021-05-06 10:26:08.487117 [UID:1754][19354] Child process with pid: 19390 was killed by signal: 15, core dump: 0
