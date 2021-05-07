@@ -16,7 +16,8 @@
 
 				<div class="order-2 p-2">
 					<a href="https://dornawing.com/" class="logo">
-						<img src="../static/img/Logo180x180.png" alt="" class="img-fluid">
+						<!--<img src="../static/img/Logo180x180.png" alt="" class="img-fluid">-->
+						<img src="{% static 'img/Logo180x180.png' %}" alt="" class="img-fluid">
 					  </a>
 				</div>
 
@@ -32,8 +33,11 @@
 </header>
 {% endblock %}
 
+
+
+
 {% block content %}
-<div class="section" data-anchor="banner" >
+{% comment %} <div class="section" data-anchor="banner" >
 	<!-- ======= Hero Section ======= 
 	style="background-image: url({{ banner_image.url }});"
 	-->
@@ -54,6 +58,24 @@
 			</div>
 		</div>
 	</section><!-- End Hero -->
+</div> {% endcomment %}
+
+<div class="section" data-anchor="banner" >
+	<video id="myVideo" loop muted playsinline data-autoplay>
+		<source src="{% static 'video/3.mp4' %}" type="video/mp4">
+	</video>
+	
+	<!-- ======= Hero Section ======= -->
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-xl-8">
+				<div class="layer">
+					<h1>{{ page.header_title_text }}</h1>
+					<h2>{{ page.header_text }}</h2>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 <div class="section" data-anchor="story">
@@ -67,7 +89,7 @@
 
 					</div>
 
-					<div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left">
+					<div id="test" class="col-lg-6 order-1 order-lg-2" data-aos="fade-left">
 						{% image self.our_story_img max-2000x2000 as our_story_img %}
 						<img src="{{ our_story_img.url }}" class="img-fluid" alt="">
 					</div>
@@ -164,7 +186,7 @@
 {% endblock %}
 
 {% block extra_js %}
-	<script>
+	<script>	  	
 	    new fullpage('#fullpage', {
 	    /*//options here
 	    autoScrolling:true,
